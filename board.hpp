@@ -1,6 +1,6 @@
 // Prevents redefinitions
-#ifndef BOARD_H
-#define BOARD_H
+#ifndef BOARD_HPP
+#define BOARD_HPP
 
 #include <iostream>
 using namespace std;
