@@ -2,11 +2,11 @@
 using namespace std;
 
 // Include the files of all referenced classes
-#include "game.h"
-#include "player.h"
-#include "board.h"
-#include "board4.h"
-#include "board5.h"
+#include "game.hpp"
+#include "player.hpp"
+#include "board.hpp"
+#include "board4.hpp"
+#include "board5.hpp"
 
 // Function headers
 Player createPlayer(Game &, int);
